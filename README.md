@@ -1,4 +1,4 @@
-## How to use
+# How to use
 
 Install dependencies from Composer
 
@@ -12,7 +12,7 @@ Run your tests:
 composer run test
 ```
 
-No Composer ?
+## No Composer ?
 
 script for installation:
 
